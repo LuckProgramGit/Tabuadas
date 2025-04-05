@@ -22,7 +22,7 @@ O programa permite ao usuário:
 
 ---
 
-## 🔎 Funcionalidades
+##  Funcionalidades
 
  Menu interativo com opções  
  Validação para não aceitar números negativos  
@@ -31,7 +31,7 @@ O programa permite ao usuário:
 
 ---
 
-## 📷 Exemplo de uso
+##  Exemplo de uso
 
 ===== MENU DE TABUADA ===== 1 - Ver tabuada de um número 2 - Ver tabuadas de 1 a 10 0 - Sair Escolha uma opção: 1 Digite um número positivo: 7
 
@@ -44,7 +44,7 @@ Tabuada do 7: 7 x 1 = 7 7 x 2 = 14 ... 7 x 10 = 70
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone [https://github.com/seu-usuario/nome-do-repo.git](https://github.com/LuckProgramGit/Tabuadas.git)
 Abra o projeto no IntelliJ ou outra IDE
 
 Execute a classe TabuadaMenu.java

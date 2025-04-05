@@ -15,7 +15,7 @@ public class Tabuadas {
 
             for (int i = 1; i <= 10; i++){
                 int resultado = numero *i;
-                System.out.println("Tabuada do " + numero + " X " + i + " é: " + resultado);
+                System.out.println("Tabuada do " + numero + " X " + i + " " +  resultado);
             }
 
             System.out.println("\n Deseja saber outra tabuada? (sim/não)");

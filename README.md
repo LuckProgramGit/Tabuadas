@@ -49,5 +49,6 @@ Abra o projeto no IntelliJ ou outra IDE
 
 Execute a classe TabuadaMenu.java
 
- Autor
+Autor
+
 Lucas de Freitas da Silva

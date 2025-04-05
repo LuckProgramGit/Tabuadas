@@ -49,9 +49,5 @@ Abra o projeto no IntelliJ ou outra IDE
 
 Execute a classe TabuadaMenu.java
 
- Organização do projeto
-tabuadacompleta/
-└── src/
-    └── tabuadageral.java
  Autor
 Lucas de Freitas da Silva
